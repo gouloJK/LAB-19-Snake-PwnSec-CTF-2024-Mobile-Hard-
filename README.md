@@ -46,7 +46,7 @@ It loads a native library and contains a constructor that expects a very specifi
 str.equals("Snaaaaaaaaaaaaaake")
 ```
 If the string matches, it invokes a native method whose result is logged as the flag.
-<img width="980" height="470" alt="Screenshot 2026-05-16 145413" src="https://github.com/user-attachments/assets/43dc8b41-2936-4457-a868-b673a6e93b41" />
+<img width="980" height="470" alt="image" src="https://github.com/user-attachments/assets/43dc8b41-2936-4457-a868-b673a6e93b41" />
 
 
 
